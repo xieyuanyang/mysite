@@ -1,8 +1,8 @@
 package com.xyy.mysite.utils;
 
 
-import com.casic.demo.entity.RestResult;
-import com.casic.demo.entity.ResultCode;
+import com.xyy.mysite.entity.RestResult;
+import com.xyy.mysite.entity.ResultCode;
 import org.springframework.stereotype.Component;
 
 /**

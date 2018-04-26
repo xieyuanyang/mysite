@@ -1,6 +1,6 @@
 package com.xyy.mysite.service;
 
-import com.casic.demo.entity.SysUser;
+import com.xyy.mysite.entity.SysUser;
 
 /**
  * 用户服务层接口

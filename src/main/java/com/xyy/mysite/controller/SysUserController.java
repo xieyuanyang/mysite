@@ -1,9 +1,9 @@
 package com.xyy.mysite.controller;
 
-import com.casic.demo.entity.RestResult;
-import com.casic.demo.entity.SysUser;
-import com.casic.demo.service.SysUserService;
-import com.casic.demo.utils.ResultGenerator;
+import com.xyy.mysite.entity.RestResult;
+import com.xyy.mysite.entity.SysUser;
+import com.xyy.mysite.service.SysUserService;
+import com.xyy.mysite.utils.ResultGenerator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

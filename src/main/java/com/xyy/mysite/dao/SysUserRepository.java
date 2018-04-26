@@ -1,6 +1,7 @@
 package com.xyy.mysite.dao;
 
-import com.casic.demo.entity.SysUser;
+
+import com.xyy.mysite.entity.SysUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
